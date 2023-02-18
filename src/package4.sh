@@ -56,7 +56,7 @@ echo "Installing  xfce "
 
 
 
-#apt 
+#apt p
 #rm -rf /var/lib/{apt,dpkg,cache,log}/
 
 # echo "Installing  dbus-x11 xauth xinit x11-xserver-utils xdg-utils"
